@@ -81,9 +81,9 @@
          "name":"start",
          "offsetx":0.666666666666629,
          "offsety":-1.99999999999989,
-         "opacity":1,
+         "opacity":0.06,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
